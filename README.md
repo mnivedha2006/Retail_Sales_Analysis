@@ -39,7 +39,7 @@ Before performing calculations, data quality issues were systematically identifi
 ---
 
 ##  5. Project Structure & Repository Contents
-
+```text
 retail-sales-analysis/
 ├── README.md                  # Project overview and documentation
 ├── docs/                      # Reports and documentation
